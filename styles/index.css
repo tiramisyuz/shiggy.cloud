@@ -1,0 +1,21 @@
+body {
+    background: #282828;
+    overflow: hidden;
+}
+
+#shiggy {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#src-button {
+    border-radius: 100%;
+    font-size: 24px;
+    filter: drop-shadow(0px 0px 10px black);
+
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
