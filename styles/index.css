@@ -22,6 +22,7 @@ body {
     filter: drop-shadow(0px 0px 10px black);
 
     text-decoration: none;
+    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #d4bd9a;
     background: #202020;
